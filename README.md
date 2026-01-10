@@ -100,7 +100,7 @@ All analysis in this project is based on **publicly available information** and 
 
 ## Documentation
 
-- Full project report: [`docs/Digital Forensics Report.pdf`](docs/Report.pdf)
+- Full project report: [`docs/Digital Forensics Report.pdf`](docs/DigitalForensicsReport.pdf)
 - References and sources: [`docs/references.md`](docs/references.md)
 
 ---
