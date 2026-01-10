@@ -80,6 +80,7 @@ The graph view visualizes how domains, IPs and other entities connect, making co
   <img width="985" height="555" alt="image" src="https://github.com/user-attachments/assets/52154612-d5f8-41ab-9349-d4baca6895a4" />
   <p><em>Fig 5. Graph result for the domain</em></p>
 </div>
+
 ---
 
 ## Key Learnings
@@ -87,7 +88,7 @@ The graph view visualizes how domains, IPs and other entities connect, making co
 - Disinformation campaigns rely heavily on **infrastructure reuse and coordination**, not just content
 - OSINT tools are most effective when combined with **methodical analysis**, not isolated scans
 - Evidence handling, documentation, and ethical awareness are as critical as technical tooling
-- Visualization plays a major role in understanding complex online relationships
+- Visualisation plays a major role in understanding complex online relationships
 
 ---
 
@@ -99,7 +100,7 @@ All analysis in this project is based on **publicly available information** and 
 
 ## Documentation
 
-- Full project report: [`docs/report.pdf`](docs/report.pdf)
+- Full project report: [`docs/Digital Forensics Report.pdf`](docs/Report.pdf)
 - References and sources: [`docs/references.md`](docs/references.md)
 
 ---
