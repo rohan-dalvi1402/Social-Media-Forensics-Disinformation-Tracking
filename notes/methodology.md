@@ -14,5 +14,5 @@
 
 ## Integrity & Documentation
 - Keep a structured log of: time, source, query, and output summary
-- Preserve original screenshots/exports in `assets/`
+- Preserve original screenshots/exports in `images/`
 - Maintain clear labeling of what is confirmed vs inferred
